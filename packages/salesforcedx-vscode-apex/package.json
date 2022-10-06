@@ -33,7 +33,7 @@
     "expand-home-dir": "0.0.3",
     "find-java-home": "0.2.0",
     "path-exists": "3.0.0",
-    "shelljs": "0.8.3",
+    "shelljs": "0.8.5",
     "vscode-extension-telemetry": "0.0.17",
     "vscode-languageclient": "5.1.1"
   },
@@ -49,7 +49,7 @@
     "@types/vscode": "1.49.0",
     "chai": "^4.0.2",
     "cross-env": "5.2.0",
-    "mocha": "^5",
+    "mocha": "^6.2.3",
     "sinon": "^7.3.1",
     "typescript": "3.8.3",
     "vscode-extension-telemetry": "0.0.17"
