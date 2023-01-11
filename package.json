@@ -18,12 +18,12 @@
     "shelljs": "0.8.3",
     "shx": "0.2.2",
     "snyk": "^1.364.0",
-    "ts-loader": "5.4.5",
+    "ts-loader": "6.0.0",
     "tslint": "5.5.0",
     "typescript": "3.8.3",
     "vsce": "1.62.0",
     "vscode-test": "1.4.0",
-    "webpack": "4.30.0",
+    "webpack": "5.0.0",
     "webpack-cli": "3.3.5"
   },
   "scripts": {
