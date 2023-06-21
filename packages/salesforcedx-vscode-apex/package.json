@@ -27,15 +27,15 @@
   "dependencies": {
     "@salesforce/apex-node": "0.2.8",
     "@salesforce/apex-tmlanguage": "1.4.0",
-    "@salesforce/core": "2.25.1",
+    "@salesforce/core": "3.32.12",
     "@salesforce/salesforcedx-utils-vscode": "52.15.0",
-    "@salesforce/source-deploy-retrieve": "4.1.1",
+    "@salesforce/source-deploy-retrieve": "6.0.0",
     "expand-home-dir": "0.0.3",
     "find-java-home": "0.2.0",
     "path-exists": "3.0.0",
     "shelljs": "0.8.3",
     "vscode-extension-telemetry": "0.0.17",
-    "vscode-languageclient": "5.1.1"
+    "vscode-languageclient": "7.0.0"
   },
   "devDependencies": {
     "@salesforce/salesforcedx-test-utils-vscode": "52.15.0",
@@ -48,7 +48,7 @@
     "@types/sinon": "^2.3.2",
     "@types/vscode": "1.49.0",
     "chai": "^4.0.2",
-    "cross-env": "5.2.0",
+    "cross-env": "6.0.0",
     "mocha": "^5",
     "sinon": "^7.3.1",
     "typescript": "3.8.3",
