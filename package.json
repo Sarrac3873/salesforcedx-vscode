@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@commitlint/cli": "^7",
+    "@commitlint/cli": "^17.0.0",
     "@commitlint/config-conventional": "^7",
     "@salesforce/dev-config": "1.4.1",
     "ajv": "6.1.1",
